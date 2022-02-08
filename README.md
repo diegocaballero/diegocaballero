@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegocaballero
 - 👀 I’m interested in JAVA projects and software/it architecture
-- 🌱 I’m currently learning Devops and security
+- 📆 Experience in Fintech, Academy and IoT projects (7years)
 
 <!---
 diegocaballero/diegocaballero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
