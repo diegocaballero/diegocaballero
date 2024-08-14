@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @diegocaballero
-- 👀 I’m interested in JAVA projects and software/it architecture
-- 📆 Experience in Fintech, Academy and IoT projects (7years)
+- 👋 Hi, I’m @diegocaballero Senior Software Developer
+- 👀 I’m interested in JAVA projects and software/It architecture
+- 📆 Experience in Fintech, Academy, and IoT projects (9 years)
 
 <!---
 diegocaballero/diegocaballero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
